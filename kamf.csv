@@ -1,2 +1,2 @@
 ,hash_commit,filename,old_path,new_path,change_type,diff,diff_parsed,added_lines,deleted_lines,source_code,source_code_before,methods,methods_before,changed_methods,nloc,complexity,token_count
-,hash_commit,filename,old_path,new_path,change_type,diff,diff_parsed,added_lines,deleted_lines,source_code,source_code_before,methods,methods_before,changed_methods,nloc,complexity,token_count
+,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
